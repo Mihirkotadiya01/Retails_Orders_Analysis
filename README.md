@@ -1,4 +1,4 @@
-1)Data Import and Cleaning
+1)Data Import and Cleaning:
 Imported detailed order data from the Kaggle API into a Python notebook.
 Performed comprehensive data cleaning and preprocessing using Pandas to ensure data accuracy and consistency.
 
